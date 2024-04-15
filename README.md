@@ -1,6 +1,6 @@
 # RAG-FOR-EDUCATIONAL-PURPOSES
 
-![EDUCATIONAL CHATBOT USING RAG]("images/demo_image.JPG")
+![EDUCATIONAL CHATBOT USING RAG]("/images/demo_image.JPG")
 
 This project aims to improve educational support through the use of a new capability in Large Language Models named "RAG ~ Retrieval Augmented Generation," alongside Vector Databases. In the project, we utilize the Gemma language model developed by Google, which features 7 billion parameters. To access its functionalities, you must log in to Hugging Face and add your Hugging Face token in the `model.py` file.
 
