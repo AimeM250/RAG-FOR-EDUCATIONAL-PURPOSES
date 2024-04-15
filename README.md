@@ -1,6 +1,6 @@
 # RAG-FOR-EDUCATIONAL-PURPOSES
 
-This project utilizes the Gemma language model (7 billion parameters) developed by Google. To access its functionalities, you must log in to Hugging Face and add  your Hugging Face token in the `model.py` file.
+This project aims to improve educational support through the use of a new capability in Large Language Models named "RAG ~ Retrieval Augmented Generation," alongside Vector Databases. In the project, we utilize the Gemma language model developed by Google, which features 7 billion parameters. To access its functionalities, you must log in to Hugging Face and add your Hugging Face token in the `model.py` file.
 
 ### Installation
 
@@ -19,6 +19,6 @@ For enhanced performance, GPU (cuda) usage is recommended, leveraging Nvidia har
 
 ### Additional Resources
 
-- Presentation: [Link to Presentation](insert-link-here)
-- Report: [Link to Report](insert-link-here)
-- Demo Video: [Link to Demo Video](insert-link-here)
+- Presentation: [Link to Presentation](https://docs.google.com/presentation/d/1FlJmCupQK827zWNo5LjzIVhH8-3AfJeC/edit?usp=drive_web&ouid=104339001137477334178&rtpof=true)
+- Report: [Link to Report](https://drive.google.com/drive/u/0/folders/16LQGGwwzZMpJpgLscR8_ctlziaZYqnYH)
+- Demo Video: [Link to Demo Video](https://drive.google.com/drive/u/0/folders/16LQGGwwzZMpJpgLscR8_ctlziaZYqnYH)
