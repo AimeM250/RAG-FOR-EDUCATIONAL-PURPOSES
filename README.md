@@ -23,5 +23,5 @@ For enhanced performance, GPU (cuda) usage is recommended, leveraging Nvidia har
 - **`Report:`** [Link to Report](https://docs.google.com/document/d/1UOCDnjlXDiy5vD-KRuhnjd5tcv8nlVgAIaR44bmaR-I/edit)
 - **`Demo Video:`** [Link to Demo Video](https://drive.google.com/file/d/1dnXt9rFuqz4zA9tN1qHeXZZ9FBX6xmlF/view?usp=drive_link)
 
-- **`Contributors` :** Aime Munezero, Seth Abayo, Kevin Mucyo, Leonidas Mugema
+**`Contributors` :** Aime Munezero, Seth Abayo, Kevin Mucyo, Leonidas Mugema
 
