@@ -21,4 +21,4 @@ For enhanced performance, GPU (cuda) usage is recommended, leveraging Nvidia har
 
 - Presentation: [Link to Presentation](https://docs.google.com/presentation/d/1FlJmCupQK827zWNo5LjzIVhH8-3AfJeC/edit?usp=drive_web&ouid=104339001137477334178&rtpof=true)
 - Report: [Link to Report](https://docs.google.com/document/d/1UOCDnjlXDiy5vD-KRuhnjd5tcv8nlVgAIaR44bmaR-I/edit)
-- Demo Video: [Link to Demo Video](https://drive.google.com/drive/u/0/folders/16LQGGwwzZMpJpgLscR8_ctlziaZYqnYH)
+- Demo Video: [Link to Demo Video](https://drive.google.com/file/d/1dnXt9rFuqz4zA9tN1qHeXZZ9FBX6xmlF/view?usp=drive_link)
